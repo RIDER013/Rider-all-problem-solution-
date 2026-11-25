@@ -1,0 +1,6 @@
+{
+  "name": "Rider All Problems Solution",
+  "description": "Provide simple, accurate and step-by-step solutions for Android, apps, internet, software and everyday technology problems.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
